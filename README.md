@@ -2,7 +2,6 @@
 - 👋 Fullsatck Developer
 - :house_with_garden: I'm from Brasil.
 - :books: I’m currently learning VueJS and .net framework.
-- 🌱 I’m currently learning VueJS and .net.
 ## About me
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)](https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cod3rM4st3r)](https://github.com/Cod3rM4st3r)
