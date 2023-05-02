@@ -1,7 +1,7 @@
 ## Helo World, I'm Leonardo !!
 - 👋 Fullsatck Developer
 - :house_with_garden: I'm from Brasil.
-- :books: I’m currently learning VueJS and .net framework.
+- :books: I’m currently working with VueJS and .net framework.
 ## About me
 Software development specialist, I have benn working as a Full Stack Developer for 5 years and over that time i have developed several skills in this area, knowing how to deal with various types of situation and ocasions both humman factor and technological, Knowing well how to work with team and Knowing how to deal with criticism and differences of opinion. 
 
