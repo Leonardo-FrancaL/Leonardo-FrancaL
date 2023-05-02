@@ -3,6 +3,8 @@
 - :house_with_garden: I'm from Brasil.
 - :books: I’m currently learning VueJS and .net framework.
 ## About me
+Software development specialist, I have benn working as a Full Stack Developer for 5 years and over that time i have developed several skills in this area, knowing how to deal with various types of situation and ocasions both humman factor and technological, Knowing well how to work with team and Knowing how to deal with criticism and differences of opinion. 
+
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)](https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-FrancaL)](https://github.com/Leonardo-FrancaL)
 ## Language and Tools
