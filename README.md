@@ -4,10 +4,10 @@
 - :books: I’m currently learning VueJS and .net framework.
 ## About me
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)](https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cod3rM4st3r)](https://github.com/Cod3rM4st3r)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-FrancaL)](https://github.com/Leonardo-FrancaL)
 ## Language and Tools
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod3rM4st3r&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cod3rM4st3r&layout=compact)](https://github.com/Cod3rM4st3r/github-readme-stats)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact)](https://github.com/Leonardo-FrancaL/github-readme-stats)
 
 
 
