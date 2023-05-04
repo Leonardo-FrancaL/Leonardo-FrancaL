@@ -8,8 +8,11 @@ Software development specialist, I have benn working as a Full Stack Developer f
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)](https://www.linkedin.com/in/leonardo-franca-lopes-9103b9157/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-FrancaL)](https://github.com/Leonardo-FrancaL)
 ## Language and Tools
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact&theme=radical)](https://github.com/Leonardo-FrancaL/github-readme-stats)
+<div>
+  <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical" />
+  <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact&theme=radical" />
+<div>
+
 
 
 
