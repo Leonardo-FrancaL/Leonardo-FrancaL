@@ -9,15 +9,14 @@ Software development specialist, I have benn working as a Full Stack Developer f
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-FrancaL)](https://github.com/Leonardo-FrancaL)
 ## Language and Tools
 <div>
-  <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical" />
-  <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact&theme=radical" />
 <div>
 
-
-
-
+<br />
+  
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="hhttps://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
