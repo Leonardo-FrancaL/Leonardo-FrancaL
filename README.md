@@ -9,7 +9,7 @@ Software development specialist, I have benn working as a Full Stack Developer f
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-FrancaL)](https://github.com/Leonardo-FrancaL)
 ## Language and Tools
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-FrancaL&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact)](https://github.com/Leonardo-FrancaL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-FrancaL&layout=compact&theme=radical)](https://github.com/Leonardo-FrancaL/github-readme-stats)
 
 
 
